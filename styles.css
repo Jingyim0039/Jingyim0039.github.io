@@ -252,8 +252,7 @@ nav a:focus-visible,
   aspect-ratio: 4 / 5.1;
   object-fit: cover;
   object-position: 60% 58%;
-  filter: none;
-  image-rendering: auto;
+  display: block;
 }
 
 .portrait-wrap figcaption {
