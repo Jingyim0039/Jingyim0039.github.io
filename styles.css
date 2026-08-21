@@ -547,7 +547,7 @@ nav a:focus-visible,
 .contact-email {
   display: inline-block;
   font-family: var(--serif);
-  font-size: clamp(20px, 2.4vw, 29px);
+  font-size: clamp(18px, 2.4vw, 29px);
   text-decoration: none;
 }
 
