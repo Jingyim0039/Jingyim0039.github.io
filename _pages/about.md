@@ -6,7 +6,7 @@ subtitle: Ph.D. Researcher in Transportation Engineering | Intelligent Transport
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: JingyiMao.jpg
   image_circular: false
   more_info: >
     <p>South China University of Technology</p>
